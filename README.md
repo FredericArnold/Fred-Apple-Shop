@@ -1,3 +1,8 @@
+Projet en cours de création de site e-commerce de vente de smartphone. Développé avec React JS.
+
+![FredApple_Shop](https://user-images.githubusercontent.com/25490134/143960715-adbde017-f134-4c0a-86aa-95491a182289.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
