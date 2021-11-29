@@ -1,3 +1,10 @@
+# Clone du site spacex.com réalisé avec
+- React.js
+- SCSS
+- Bootstrap
+- GraphQL
+- Apollo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
